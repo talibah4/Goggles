@@ -1,0 +1,104 @@
+.eventcol {
+	background: white;
+	}
+#eventheading {
+	background: white;
+	}
+#total {
+	font-weight: bold;
+	}
+/* NATHAN ADRIAN */
+#nadrianbiopic {
+	left: 50em;
+	position: absolute;
+	}
+#nadrianbio {
+	text-align: left;
+	display: block;
+	clear: right;
+	width: 47em;
+	}
+	
+/* MAYA DIRADO */
+#mdiradobiopic {
+	left: 47em;
+	position: absolute;
+	}
+#mdiradobio {
+	text-align: left;
+	display: block;
+	clear: right;
+	width: 45em;
+	}
+	
+/* CONOR DWYER */
+#cdwyerbiopic {
+	left: 47em;
+	position: absolute;
+	}
+#cdwyerbio {
+	text-align: left;
+	display: block;
+	clear: right;
+	width: 42em;
+	}
+	
+/* LILLY KING */
+#lkingbiopic {
+	left: 47em;
+	position: absolute;
+	}
+#lkingbio {
+	text-align: left;
+	display: block;
+	clear: right;
+	width: 43em;
+	}
+	
+/* KATIE LEDECKY */
+#kledeckybiopic {
+	left: 47em;
+	position: absolute;
+	}
+#kledeckybio {
+	text-align: left;
+	display: block;
+	clear: right;
+	width: 44em;
+	}
+
+/* SIMONE MANUEL */
+#smanuelbiopic {
+	left: 47em;
+	position: absolute;
+	}
+#smanuelbio {
+	text-align: left;
+	display: block;
+	clear: right;
+	width: 44em;
+	}
+
+/* RYAN MURPHY */
+#rmurphybiopic {
+	left: 43em;
+	position: absolute;
+	}
+#rmurphybio {
+	text-align: left;
+	display: block;
+	clear: right;
+	width: 40em;
+	}
+
+/* MICHAEL PHELPS */
+#mphelpsbiopic {
+	left: 43em;
+	position: absolute;
+	}
+#mphelpsbio {
+	text-align: left;
+	display: block;
+	clear: right;
+	width: 40em;
+	}

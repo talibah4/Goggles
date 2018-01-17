@@ -1,0 +1,182 @@
+@import 'https://fonts.googleapis.com/css?family=Dancing+Script|Work+Sans';
+#body {
+	border-width: 0em;
+	border-style: solid;
+	border-color: white; 
+	background-color: #7ABFFF;
+	padding: 0.5em;
+	min-width: 70em;
+	max-width: 80em;
+	}
+	
+h1 {
+	text-align: left;
+	color: white;
+	padding-left: 1em;
+	font-size: 4em;
+	font-family: 'Dancing Script', Trebuchet MS, sans-serif;
+	}
+	
+a:link {
+	color: white;
+	text-decoration: none;
+	}
+	
+a:visited {
+	color: white;
+	text-decoration: none;
+	}
+	
+a:hover {
+	color: black;
+	text-decoration: none;
+	}
+	
+a:active {
+	color: white;
+	text-decoration: none;
+	}
+	
+#webname a:hover{
+	color: white;
+	text-shadow: 2px 2px 4px rgb(92,150,204);
+	}
+	
+#nav {
+	color: white;
+	font-family: 'Work Sans', Trebuchet MS, sans-serif;
+	text-align: left;
+	padding: 0 0 0.5em 2em;
+	}
+	
+#main {
+	border: none;
+	margin: 1.25em;
+	padding: .5em;
+	background-color: #7ABFFF;
+	/* background-color: #99ccff; */
+	clear: left;
+	position: relative;
+	}
+	
+h2 {
+	font-size: 2em;
+	}
+	
+.text {
+	padding: 0.5em 1em 0.5em 1em;
+	color: white;
+	font-family: 'Work Sans', Trebuchet MS, sans-serif;
+	clear: left;
+	}
+	
+.filler {
+	padding: .25em;
+	text-align: right;
+	color: white;
+	font-style: italic;
+	font-family: 'Work Sans', Trebuchet MS, sans-serif;
+	clear: left;
+	}
+	
+#title {
+	font-weight: bold;
+	}
+	
+#swimmerlist {
+	display: inline;
+	list-style-type: circle;
+	position: absolute;
+	right: 5em;
+	}
+#swimmers {
+	padding: 0.5em;
+	clear: left;
+	width: 820px;
+	height: 870px;
+	position: relative;
+	} 
+	
+figure {
+	display: table;
+	margin: 0;
+	padding: 0.25em 0.25em 0 0.25em;
+	float: left;
+	}
+	
+figcaption {
+	display: table-caption;
+	caption-side: bottom;
+	margin: 0.25em;
+	padding: 0;
+	text-align: center;
+	background: rgb(92,150,204);
+	background: rgba(92,150,204,0.4);
+	position: relative;
+	-webkit-border-bottom-right-radius: 10px;
+	-webkit-border-bottom-left-radius: 10px;
+	-moz-border-radius-bottomright: 10px;
+	-moz-border-radius-bottomleft: 10px;
+	border-bottom-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	
+	}
+	
+/* total medal summary */
+#totalmedals {
+	position: absolute;
+	right: 0.25em;
+	top: 20em;
+	}
+	
+#medaltitle {
+	text-align: center;
+	}
+	
+table {
+	margin: 2em;
+	border-collapse: collapse;
+	}
+	
+th, td {
+	font-family:'Work Sans', Trebuchet MS, sans-serif;
+	border: 1px solid black;
+	text-align: center;
+	padding: 0.5em;
+	}
+	
+.swimmercol {
+	background: white;
+	}
+	
+.goldcol {
+	background: #F0E68C;
+	}
+	
+.silvercol {
+	background: #D3D3D3;
+	}
+	
+.bronzecol {
+	background: #F5DEB3;
+	}
+	
+#swimmerheading {
+	background: white;
+	}
+	
+#goldheading {
+	background: #D4AF37;
+	}
+	
+#silverheading {
+	background: #A9A9A9;
+	}
+	
+#bronzeheading {
+	background: #C39A65;
+	}	
+.media {
+	display: inline;
+	padding: 0.5em;
+	}

@@ -1,0 +1,57 @@
+form {
+	background: rgb(92,150,204);
+	background: rgba(92,150,204,0.4);
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	width: 820px;
+	}
+fieldset {
+	margin: 1em;
+	position: relative;
+	}
+legend {
+	font-family: 'Work Sans', Trebuchet MS, sans-serif;
+	color: white;
+	padding: 1em 0 3em 1em;
+	}
+legend span {
+	position: absolute;
+	font-size: 1.5em;
+	margin-top: 0.5em;
+	}
+label {
+	font-family: 'Work Sans', Trebuchet MS, sans-serif;
+	display: block;
+	position: relative;
+	color: white;
+	font-size: 1em;
+	padding: 1em;
+	}
+#contactinfo label {
+	display: block;
+	position: relative;
+	left: 2em;
+	}
+#nameinput, #emailinput {
+	width: 15em;
+	}
+#comments label {
+	display: block;
+	position: relative;
+	}
+#comments label span {
+	padding: 1em;
+	}
+input, textarea {
+	font-family: 'Work Sans', Trebuchet MS, sans-serif;
+	}
+input:focus, textarea:focus {
+	background: #99ccff;
+	}
+#submitbutton {
+	padding: 0 1em 2em 2em;
+	}
+#contactinfo, #comments, #submitbutton {
+	border: none;
+	}
